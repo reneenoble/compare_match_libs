@@ -1,0 +1,6 @@
+textdistance
+python-levenshtein
+fuzzywuzzy
+nicknames
+rapidfuzz
+pynamematcher
